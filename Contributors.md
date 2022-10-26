@@ -3160,4 +3160,5 @@
 - [Ankur Gupta](https://github.com/Ankurgupta271)
 - [PathuS13](https://github.com/pathuS13)
 - [Jaskirat Kaur](https://github.com/jjass-kaur)
+- [Rajat Agarwal](https://github.com/Raj-109)
 <!-- prettier-ignore-end -->
